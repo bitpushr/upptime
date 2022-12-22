@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.bitpushr.net): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Mitchell](https://bitpushr.net), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [bitpushr](https://bitpushr.net), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/bitpushr/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/bitpushr/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/bitpushr/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/bitpushr/upptime/actions?query=workflow%3A%22Response+Time+CI%22)

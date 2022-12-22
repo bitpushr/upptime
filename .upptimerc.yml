@@ -3,7 +3,7 @@ repo: upptime
 
 sites:
   - name: Plex
-    url: https://plex.bitpushr.net/
+    url: https://plex.bitpushr.net/web/index.html#!/
   - name: Overseerr
     url: https://overseerr.bitpushr.net/
   - name: Tautulli

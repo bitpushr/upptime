@@ -28,3 +28,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: bitpushr.net
+      href: https://bitpushr.net

@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.bitpushr.net.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "33.96%",
-    "uptimeDay": "33.96%",
-    "uptimeWeek": "33.96%",
-    "uptimeMonth": "33.96%",
-    "uptimeYear": "33.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1204,
     "timeDay": 1204,
     "timeWeek": 1204,
     "timeMonth": 1204,
     "timeYear": 1204,
-    "dailyMinutesDown": {
-      "2022-12-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Overseerr",

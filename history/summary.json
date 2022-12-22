@@ -1,22 +1,22 @@
 [
   {
     "name": "Plex",
-    "url": "https://plex.bitpushr.net/",
+    "url": "https://plex.bitpushr.net/web/index.html#!/",
     "icon": "https://icons.duckduckgo.com/ip3/plex.bitpushr.net.ico",
     "slug": "plex",
-    "status": "down",
-    "uptime": "8.36%",
-    "uptimeDay": "8.36%",
-    "uptimeWeek": "8.36%",
-    "uptimeMonth": "8.36%",
-    "uptimeYear": "8.36%",
-    "time": 1248,
-    "timeDay": 1248,
-    "timeWeek": 1248,
-    "timeMonth": 1248,
-    "timeYear": 1248,
+    "status": "up",
+    "uptime": "33.96%",
+    "uptimeDay": "33.96%",
+    "uptimeWeek": "33.96%",
+    "uptimeMonth": "33.96%",
+    "uptimeYear": "33.96%",
+    "time": 1204,
+    "timeDay": 1204,
+    "timeWeek": 1204,
+    "timeMonth": 1204,
+    "timeYear": 1204,
     "dailyMinutesDown": {
-      "2022-12-22": 0
+      "2022-12-22": 2
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1644,
-    "timeDay": 1644,
-    "timeWeek": 1644,
-    "timeMonth": 1644,
-    "timeYear": 1644,
+    "time": 1617,
+    "timeDay": 1617,
+    "timeWeek": 1617,
+    "timeMonth": 1617,
+    "timeYear": 1617,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2565,
-    "timeDay": 2565,
-    "timeWeek": 2565,
-    "timeMonth": 2565,
-    "timeYear": 2565,
+    "time": 11903,
+    "timeDay": 11903,
+    "timeWeek": 11903,
+    "timeMonth": 11903,
+    "timeYear": 11903,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1548,
-    "timeDay": 1548,
-    "timeWeek": 1548,
-    "timeMonth": 1548,
-    "timeYear": 1548,
+    "time": 1512,
+    "timeDay": 1512,
+    "timeWeek": 1512,
+    "timeMonth": 1512,
+    "timeYear": 1512,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1473,
-    "timeDay": 1473,
-    "timeWeek": 1473,
-    "timeMonth": 1473,
-    "timeYear": 1473,
+    "time": 1507,
+    "timeDay": 1507,
+    "timeWeek": 1507,
+    "timeMonth": 1507,
+    "timeYear": 1507,
     "dailyMinutesDown": {}
   }
 ]

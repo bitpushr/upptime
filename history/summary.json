@@ -4,89 +4,99 @@
     "url": "https://plex.bitpushr.net/web/index.html#!/",
     "icon": "https://icons.duckduckgo.com/ip3/plex.bitpushr.net.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1056,
-    "timeDay": 1034,
-    "timeWeek": 1056,
-    "timeMonth": 1056,
-    "timeYear": 1056,
-    "dailyMinutesDown": {}
+    "time": 981,
+    "timeDay": 560,
+    "timeWeek": 981,
+    "timeMonth": 981,
+    "timeYear": 981,
+    "dailyMinutesDown": {
+      "2022-12-26": 0
+    }
   },
   {
     "name": "Overseerr",
     "url": "https://overseerr.bitpushr.net/",
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.bitpushr.net.ico",
     "slug": "overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1408,
-    "timeDay": 1354,
-    "timeWeek": 1408,
-    "timeMonth": 1408,
-    "timeYear": 1408,
-    "dailyMinutesDown": {}
+    "time": 1311,
+    "timeDay": 746,
+    "timeWeek": 1311,
+    "timeMonth": 1311,
+    "timeYear": 1311,
+    "dailyMinutesDown": {
+      "2022-12-26": 0
+    }
   },
   {
     "name": "Tautulli",
     "url": "https://tautulli.bitpushr.net/",
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.bitpushr.net.ico",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3389,
-    "timeDay": 1615,
-    "timeWeek": 3389,
-    "timeMonth": 3389,
-    "timeYear": 3389,
-    "dailyMinutesDown": {}
+    "time": 3133,
+    "timeDay": 841,
+    "timeWeek": 3133,
+    "timeMonth": 3133,
+    "timeYear": 3133,
+    "dailyMinutesDown": {
+      "2022-12-26": 0
+    }
   },
   {
     "name": "Sonarr",
     "url": "https://sonarr.bitpushr.net/",
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.bitpushr.net.ico",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1363,
-    "timeDay": 1306,
-    "timeWeek": 1363,
-    "timeMonth": 1363,
-    "timeYear": 1363,
-    "dailyMinutesDown": {}
+    "time": 1265,
+    "timeDay": 699,
+    "timeWeek": 1265,
+    "timeMonth": 1265,
+    "timeYear": 1265,
+    "dailyMinutesDown": {
+      "2022-12-26": 0
+    }
   },
   {
     "name": "Radarr",
     "url": "https://radarr.bitpushr.net/",
     "icon": "https://icons.duckduckgo.com/ip3/radarr.bitpushr.net.ico",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1316,
-    "timeDay": 1338,
-    "timeWeek": 1316,
-    "timeMonth": 1316,
-    "timeYear": 1316,
-    "dailyMinutesDown": {}
+    "time": 1218,
+    "timeDay": 690,
+    "timeWeek": 1218,
+    "timeMonth": 1218,
+    "timeYear": 1218,
+    "dailyMinutesDown": {
+      "2022-12-26": 0
+    }
   }
 ]

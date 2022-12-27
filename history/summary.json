@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.bitpushr.net.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 963,
-    "timeDay": 613,
-    "timeWeek": 963,
-    "timeMonth": 963,
-    "timeYear": 963,
-    "dailyMinutesDown": {
-      "2022-12-26": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 978,
+    "timeDay": 664,
+    "timeWeek": 978,
+    "timeMonth": 978,
+    "timeYear": 978,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Overseerr",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.bitpushr.net.ico",
     "slug": "overseerr",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1294,
-    "timeDay": 855,
-    "timeWeek": 1294,
-    "timeMonth": 1294,
-    "timeYear": 1294,
-    "dailyMinutesDown": {
-      "2022-12-26": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1313,
+    "timeDay": 929,
+    "timeWeek": 1313,
+    "timeMonth": 1313,
+    "timeYear": 1313,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tautulli",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.bitpushr.net.ico",
     "slug": "tautulli",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 2987,
-    "timeDay": 922,
-    "timeWeek": 2987,
-    "timeMonth": 2987,
-    "timeYear": 2987,
-    "dailyMinutesDown": {
-      "2022-12-26": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2905,
+    "timeDay": 969,
+    "timeWeek": 2905,
+    "timeMonth": 2905,
+    "timeYear": 2905,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sonarr",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.bitpushr.net.ico",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1237,
-    "timeDay": 758,
-    "timeWeek": 1237,
-    "timeMonth": 1237,
-    "timeYear": 1237,
-    "dailyMinutesDown": {
-      "2022-12-26": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1252,
+    "timeDay": 810,
+    "timeWeek": 1252,
+    "timeMonth": 1252,
+    "timeYear": 1252,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Radarr",
@@ -85,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/radarr.bitpushr.net.ico",
     "slug": "radarr",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1194,
-    "timeDay": 753,
-    "timeWeek": 1194,
-    "timeMonth": 1194,
-    "timeYear": 1194,
-    "dailyMinutesDown": {
-      "2022-12-26": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1210,
+    "timeDay": 787,
+    "timeWeek": 1210,
+    "timeMonth": 1210,
+    "timeYear": 1210,
+    "dailyMinutesDown": {}
   }
 ]

@@ -6,12 +6,6 @@ sites:
     url: https://plex.bitpushr.net/web/index.html#!/
   - name: Overseerr
     url: https://overseerr.bitpushr.net/
-  - name: Tautulli
-    url: https://tautulli.bitpushr.net/
-  - name: Sonarr
-    url: https://sonarr.bitpushr.net/
-  - name: Radarr
-    url: https://radarr.bitpushr.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

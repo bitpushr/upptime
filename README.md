@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.bitpushr.net): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://bitpushr.github.io/upptime/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [bitpushr](https://bitpushr.net), powered by [Upptime](https://github.com/upptime/upptime).
 

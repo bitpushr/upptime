@@ -1,7 +1,7 @@
 url: https://plex.bitpushr.net/web/index.html#!/
-status: up
-code: 200
-responseTime: 600
-lastUpdated: 2023-12-06T23:11:02.619Z
+status: down
+code: 530
+responseTime: 88
+lastUpdated: 2023-12-07T04:52:16.138Z
 startTime: 2022-12-22T16:15:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.bitpushr.net.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 847,
-    "timeDay": 904,
-    "timeWeek": 894,
-    "timeMonth": 739,
-    "timeYear": 825,
+    "timeDay": 974,
+    "timeWeek": 935,
+    "timeMonth": 744,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2024-03-19": 496,
       "2023-12-20": 17,
@@ -22,8 +22,7 @@
       "2023-12-04": 17,
       "2023-06-20": 58,
       "2023-06-15": 80,
-      "2023-06-08": 1374,
-      "2023-06-07": 1156
+      "2023-06-08": 1374
     }
   },
   {
@@ -37,10 +36,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 1115,
-    "timeDay": 1265,
-    "timeWeek": 1330,
-    "timeMonth": 1149,
+    "time": 1114,
+    "timeDay": 1374,
+    "timeWeek": 1392,
+    "timeMonth": 1141,
     "timeYear": 1067,
     "dailyMinutesDown": {
       "2024-03-19": 474,
@@ -49,8 +48,7 @@
       "2023-12-04": 17,
       "2023-06-20": 58,
       "2023-06-15": 80,
-      "2023-06-08": 1388,
-      "2023-06-07": 1156
+      "2023-06-08": 1388
     }
   }
 ]

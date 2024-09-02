@@ -3,9 +3,9 @@ repo: upptime
 
 sites:
   - name: Plex
-    url: https://plex.bitpushr.net/web/index.html#!/
+    url: https://plex2.bitpushr.net/web/index.html#!/
   - name: Overseerr
-    url: https://overseerr.bitpushr.net/
+    url: https://overseerr2.bitpushr.net/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

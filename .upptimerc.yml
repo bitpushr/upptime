@@ -14,9 +14,9 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://i.imgur.com/zzAIHIT.png
   favicon: https://i.imgur.com/zzAIHIT.png
-  name: bitpushr's status website
+  name: bitpushr.net status website
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is bitpushr's status page
+  introMessage: This is the bitpushr.net service status page
   navbar:
     - title: Status
       href: /

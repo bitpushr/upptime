@@ -29,7 +29,7 @@
     "url": "https://overseerr.bitpushr.net/",
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.bitpushr.net.ico",
     "slug": "overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 1721,
     "timeYear": 1055,
     "dailyMinutesDown": {
+      "2025-04-26": 0,
       "2024-12-13": 38,
       "2024-12-12": 75,
       "2024-10-03": 140,

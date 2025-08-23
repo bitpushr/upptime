@@ -2,10 +2,16 @@ owner: bitpushr
 repo: upptime
 
 sites:
-  - name: Plex
+  - name: Plex (instance)
     url: https://plex.bitpushr.net/web/index.html#!/
-  - name: Overseerr
+  - name: Overseerr (instance)
     url: https://overseerr.bitpushr.net/
+  - name: bitpushr.net website (VIP)
+    url: https://bitpushr.net
+  - name: bitpushr.net dashboard (instance)
+    url: https://dashboard.bitpushr.net
+  - name: bitpushr.net documentation wiki (CF)
+    url: https://docs.bitpushr.net
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

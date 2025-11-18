@@ -1,7 +1,7 @@
 url: https://overseerr.bitpushr.net/
-status: up
-code: 200
-responseTime: 899
-lastUpdated: 2025-11-17T23:14:42.760Z
+status: down
+code: 500
+responseTime: 111
+lastUpdated: 2025-11-18T11:38:42.182Z
 startTime: 2025-08-23T11:51:37.516Z
 generator: Upptime <https://github.com/upptime/upptime>

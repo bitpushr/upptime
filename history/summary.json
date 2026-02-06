@@ -44,19 +44,19 @@
     "url": "https://bitpushr.net",
     "icon": "https://icons.duckduckgo.com/ip3/bitpushr.net.ico",
     "slug": "bitpushr-net-website-vip",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3108,
-    "timeDay": 7893,
-    "timeWeek": 5010,
-    "timeMonth": 3875,
-    "timeYear": 3108,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 3106,
+    "timeDay": 5305,
+    "timeWeek": 4724,
+    "timeMonth": 3842,
+    "timeYear": 3106,
     "dailyMinutesDown": {
-      "2026-02-06": 0
+      "2026-02-06": 32
     }
   },
   {

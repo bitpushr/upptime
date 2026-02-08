@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 731,
-    "timeDay": 640,
-    "timeWeek": 757,
+    "timeDay": 638,
+    "timeWeek": 737,
     "timeMonth": 697,
     "timeYear": 731,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 1280,
-    "timeDay": 1350,
-    "timeWeek": 1301,
-    "timeMonth": 1101,
-    "timeYear": 1280,
+    "time": 1279,
+    "timeDay": 908,
+    "timeWeek": 1282,
+    "timeMonth": 1091,
+    "timeYear": 1279,
     "dailyMinutesDown": {
       "2025-11-01": 457
     }
@@ -46,15 +46,15 @@
     "slug": "bitpushr-net-website-vip",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 3116,
-    "timeDay": 3803,
-    "timeWeek": 4740,
-    "timeMonth": 3837,
-    "timeYear": 3116,
+    "time": 3127,
+    "timeDay": 5147,
+    "timeWeek": 5031,
+    "timeMonth": 3940,
+    "timeYear": 3127,
     "dailyMinutesDown": {
       "2026-02-06": 32
     }
@@ -71,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 708,
-    "timeDay": 593,
-    "timeWeek": 701,
+    "timeDay": 589,
+    "timeWeek": 680,
     "timeMonth": 666,
     "timeYear": 708,
     "dailyMinutesDown": {
@@ -91,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 185,
-    "timeWeek": 158,
+    "timeDay": 133,
+    "timeWeek": 154,
     "timeMonth": 152,
     "timeYear": 178,
     "dailyMinutesDown": {}

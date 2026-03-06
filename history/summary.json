@@ -26,9 +26,9 @@
     "url": "https://seerr.bitpushr.net/",
     "icon": "https://icons.duckduckgo.com/ip3/seerr.bitpushr.net.ico",
     "slug": "seerr-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 1323,
     "timeMonth": 1225,
     "timeYear": 1225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-06": 0
+    }
   },
   {
     "name": "bitpushr.net website (VIP)",

@@ -24,19 +24,19 @@
     "url": "https://seerr.bitpushr.net/",
     "icon": "https://icons.duckduckgo.com/ip3/seerr.bitpushr.net.ico",
     "slug": "seerr-instance",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1173,
-    "timeDay": 1272,
-    "timeWeek": 1173,
-    "timeMonth": 1163,
-    "timeYear": 1173,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.92%",
+    "time": 1172,
+    "timeDay": 1196,
+    "timeWeek": 1167,
+    "timeMonth": 1162,
+    "timeYear": 1172,
     "dailyMinutesDown": {
-      "2026-04-16": 0
+      "2026-04-16": 65
     }
   },
   {

@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 754,
-    "timeDay": 803,
-    "timeWeek": 696,
-    "timeMonth": 711,
+    "timeDay": 858,
+    "timeWeek": 707,
+    "timeMonth": 721,
     "timeYear": 752,
     "dailyMinutesDown": {
       "2025-11-01": 457
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1327,
-    "timeDay": 1683,
-    "timeWeek": 1462,
-    "timeMonth": 1369,
+    "timeDay": 1225,
+    "timeWeek": 1420,
+    "timeMonth": 1372,
     "timeYear": 1327,
     "dailyMinutesDown": {}
   },
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitpushr.net.ico",
     "slug": "bitpushr-net-website-vip",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 3678,
-    "timeDay": 3866,
-    "timeWeek": 3253,
-    "timeMonth": 3643,
-    "timeYear": 3710,
+    "time": 3677,
+    "timeDay": 3387,
+    "timeWeek": 3244,
+    "timeMonth": 3656,
+    "timeYear": 3708,
     "dailyMinutesDown": {
       "2026-05-23": 292,
       "2026-05-27": 239,
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 719,
-    "timeDay": 851,
-    "timeWeek": 765,
-    "timeMonth": 704,
-    "timeYear": 715,
+    "timeDay": 825,
+    "timeWeek": 770,
+    "timeMonth": 713,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2025-11-01": 457
     }
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 217,
-    "timeWeek": 271,
-    "timeMonth": 257,
-    "timeYear": 186,
+    "timeDay": 315,
+    "timeWeek": 290,
+    "timeMonth": 262,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   }
 ]
